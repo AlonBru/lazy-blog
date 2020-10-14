@@ -27,6 +27,29 @@ const posts = [
       },
 
     ]
+  },
+  {
+    id:3,
+    title:'The Weather',
+    content:'it\'s so rainy my god \n how can anyone go out like this\n lmao',
+    comments:[
+      {
+        id:0,
+        name:'manman',
+        content: 'some of us have a job'     
+      },
+      {
+        id:1,
+        name:'linda',
+        content: 'omg omg omg'     
+      },
+      {
+        id:2,
+        name:'Han',
+        content: 'boring conversation anyway'     
+      },
+
+    ]
   }
 ]
 

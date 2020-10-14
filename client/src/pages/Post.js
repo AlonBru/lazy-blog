@@ -5,7 +5,6 @@ import Loading from '../components/Loading'
 import AddComment from '../components/AddComment';
 const Comment =  lazy(()=>import('../components/Comment'))
 function Post({}) {
-  
   const [title,setTitle] = useState()
   const [content,setContent] = useState()
   const [comments,setComments] = useState([])
